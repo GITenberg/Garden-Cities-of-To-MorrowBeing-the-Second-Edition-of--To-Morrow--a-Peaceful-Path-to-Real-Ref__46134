@@ -1,0 +1,29 @@
+_repo: Garden-Cities-of-To-MorrowBeing-the-Second-Edition-of--To-Morrow--a-Peaceful-Path-to-Real-Ref__46134
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46134-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Howard, Ebenezer, Sir
+    alias: Howard, E. (Ebenezer), Sir
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '43623'
+    url: http://www.gutenberg.org/2009/agents/43623
+description: ''
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'Garden cities'
+title: 'Garden Cities of To-Morrow
+
+  Being the Second Edition of "To-Morrow: a Peaceful Path to Real Reform"'
+url: http://www.gutenberg.org/ebooks/46134
